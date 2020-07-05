@@ -1,0 +1,2 @@
+rootProject.name='Insert_data_to_sqlite'
+include ':app'
